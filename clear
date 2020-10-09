@@ -1,0 +1,26 @@
+[33mcommit ef6b935217d22b40ffae2da4bde366a03bdd42d2[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 83fcfa9 3c89e64
+Author: vishnu240303 <53825280+vishnu240303@users.noreply.github.com>
+Date:   Fri Oct 9 19:04:51 2020 +0530
+
+    Merge pull request #1 from vishnu240303/first
+    
+    lol
+
+[33mcommit 3c89e6448b6005cf3ad215c03290825ff3469a92[m[33m ([m[1;31morigin/first[m[33m, [m[1;32mfirst[m[33m)[m
+Author: vishnu <pallavishnu22579@gmail.com>
+Date:   Fri Oct 9 18:54:59 2020 +0530
+
+    lol
+
+[33mcommit 83fcfa9b5193589cb928f5d4420dfabd6758aafa[m
+Author: vishnu <pallavishnu22579@gmail.com>
+Date:   Fri Oct 9 09:54:03 2020 +0530
+
+    added file changes
+
+[33mcommit dd627ba57da9db7ab19103cb5b3d44b4b74d6e7c[m
+Author: vishnu <pallavishnu22579@gmail.com>
+Date:   Fri Oct 9 09:50:03 2020 +0530
+
+    created file.txt
